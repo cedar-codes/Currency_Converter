@@ -61,6 +61,7 @@ message = socket.recv_json()
     - Done, but can help with implementing or if different features wanted.
 
 - How is your teammate going to access your microservice? Should they get your code from GitHub (if so, provide a link to your public or private repo)? Should they run your code locally? Is your microservice hosted somewhere? Etc.
+    - Link to GitHub repository: https://github.com/cedar-codes/Currency_Converter
     - Can be run locally by running the following commands in two separate terminals:
         - Start the microservice first by running: python converter_service.py
         - To start the main program, run: python test_service.py
